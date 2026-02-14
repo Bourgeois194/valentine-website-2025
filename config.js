@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "bebe d'amour",
+    valentineName: "Nelly chanelle",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        message: "Dans le tumulte de nos vies pressées, Tu es la seule pause, la douce pensée. Plus précieux que tout ce que l'on peut acheter, Ton amour est mon plus beau trésor, ma réalité.Une Saint-Valentin pour te dire, en un instant, Que chaque jour à tes côtés est un présent. Près de toi, tout est plus beau, plus intense, Avec toi, mon cœur trouve enfin son équilibre, sa cadence.",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
